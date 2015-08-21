@@ -178,7 +178,6 @@ lib/soundfx/libdownmix.so
 lib/soundfx/libreverbwrapper.so
 lib/soundfx/libvisualizer.so
 lib/ssl/engines/libkeystore.so
-lib/libasound.so
 lib/libaacdecoderwrapper.so
 lib/libaac_enc_dummy.so
 lib/libacdapi_azi.so
